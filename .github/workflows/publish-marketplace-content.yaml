@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      - sentry-marketplace-workflow
 
 jobs:
   publish-components:
